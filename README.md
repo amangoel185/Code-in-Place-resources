@@ -14,6 +14,8 @@ Below are a few resources which might be helpful for learning more and contribut
   
 - [First Timers Only blog post](kentcdodds.com/blog/first-timers-only)
 
+- [freeCodeCamp Open Source Contribution Guide](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+
 ## **Python Resources**
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
