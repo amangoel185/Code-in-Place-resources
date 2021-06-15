@@ -27,10 +27,11 @@ Below are a few resources which might be helpful for learning more and contribut
 - [Kaggle](https://www.kaggle.com/learn/python)
 
 - [Official Python documentation](https://docs.python.org)
+  
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 
 ## **Miscellaneous**
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
   
 - [Open Source Society University GitHub repository](https://github.com/ossu/computer-science)
-  
